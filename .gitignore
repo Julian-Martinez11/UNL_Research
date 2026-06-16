@@ -1,0 +1,11 @@
+.cache/
+.condor/
+.config/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/ 
+.servicex
+.viminfo
