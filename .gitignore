@@ -11,3 +11,5 @@
 .viminfo
 .ssh
 .root_hist
+.wget-hsts
+.vim
