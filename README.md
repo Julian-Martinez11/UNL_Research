@@ -24,7 +24,7 @@ Finds the two leading lepton $p_t$s and their corresponding $\eta$s. We append a
 Categorizes events based on the number of leptons and their charge. Then we append all the EFT Coefficients from these events and take the index from the largest value to another list. From this list, we plot the frequency of finding a specific index (0-560) in this list. We do this to events with 3 leptons, events with 2 leptons with the same charge, events with 2 leptons with the opposite charge. At the end, the mean and median from each of the three categories is plotted.
 
 ## Slow Code:
-The files found here have two versions of the code: one optimized and one slow. Since the optimized version is our interest, I separated these notebook in each of the FINAL files, but kept these files for future reference or possible mistakes.
+The files found here have two versions of the code: one optimized and one slow. Since the optimized version is our interest, I made their own version with the name "FINAL..." in the main folder, but still saved the slow versions for future reference or possible mistakes.
 
 ## General coefficients:
 Combines all of the different kinematic effects mentioned and cuts in one single notebook and outputs a list of the coefficients of interest (based on the frequency we choose). Currently has slow versions of code. Will try to update with optimize version in the future.
